@@ -5,8 +5,153 @@
 .header h5{
   color: white;
   background-color: rgb(31, 31, 214);
-  margin-top: 0px;
+  margin: 0px;
   height: 80px;
   text-align: center;
   line-height: 80px;
+  
+}
+
+.rolex {
+  background-color: #006039;
+  margin: 0px;
+  display: flex;
+  justify-content: center;
+  
+  
+}
+
+.div-rolex {
+  display: flex;
+  align-items: center;
+  
+}
+
+
+.rolex p  {
+  color: goldenrod;
+  margin-left: 20px;
+}
+
+.congrats {
+  background: linear-gradient(276.27deg,#1e2886 -14.88%,#0091d2 57.33%);
+  margin: 0px;
+  display: flex;
+  justify-content: space-around;
+}
+.congrats h1 {
+  margin-top: 30px;
+  color: white;
+}
+
+.congrats-winners {
+  margin-bottom: 0px;
+  
+}
+
+.shop-links {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-top: 20px;
+  
+}
+
+.links-container {
+  width: 80vw;
+  margin: 30px auto ;
+
+}
+
+.shop-img img{
+  width: 100%;
+}
+
+
+
+.shop-links path{
+  color: rgb(3, 103, 170);
+  
+}
+.link-single {
+  width: 400px;
+  
+  
+}
+.tol {
+  margin-left: 340px;
+}
+.tole {
+  margin-left: 315px;
+}
+
+
+.link-single a:hoover {
+  color: #006039;
+  
+}
+.link-single {
+  height: 70px;
+}
+.link-single hr {
+  margin-top: 30px;
+}
+
+.link-single:hover {
+  background-color: rgb(235, 232, 232);
+  transition: background-color .9s
+}
+
+.video-final {
+  margin:  140px auto;
+}
+
+.shop {
+  background-color: rgb(230, 227, 227);
+}
+.shop-items {
+  display: flex;
+  justify-content: space-around;
+  
+  
+  
+}
+
+.shop-it {
+  background-color: white;
+  border-radius: 15px;
+}
+
+.shop-items img{
+  border-radius: 15px;
+}
+
+.shop-items p{
+  font-size: 20px;
+  font-weight: 1000;
+  color: #003a5d;
+}
+
+.shop-it div {
+ margin-left: 40px; 
+}
+
+.shop-it button {
+  background-color: #0073b2;
+  color: white;
+  font-weight: 500;
+  font-size: 10px;
+  padding: 10px 30px;
+  border-radius: 3px;
+}
+
+.shop-it button:hover {
+  background-color: #1e86be;
+}
+
+.title-blue {
+  color: #003a5d;
+  font-size: 60px;
+  text-align: center;
+  padding-top: 200px;
 }
