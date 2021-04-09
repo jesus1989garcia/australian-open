@@ -168,12 +168,15 @@
   display:flex;
   justify-content:flex-end;
   flex-direction: column;
+  
 
 }
 
 .card {
   display:flex;
-  justify-content:flex-end;
+  justify-content:center;
+  
+  
 }
 
 .photo-player {
