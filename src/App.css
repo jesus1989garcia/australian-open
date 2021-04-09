@@ -108,6 +108,7 @@
 
 .shop {
   background-color: rgb(230, 227, 227);
+  
 }
 .shop-items {
   display: flex;
@@ -120,6 +121,7 @@
 .shop-it {
   background-color: white;
   border-radius: 15px;
+  margin-bottom: 60px;
 }
 
 .shop-items img{
@@ -154,4 +156,26 @@
   font-size: 60px;
   text-align: center;
   padding-top: 200px;
+}
+
+.players {
+  
+  background-image: url(/src/imgs/2507398-52046670-2560-1440.jpg);
+  width: 100vw;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display:flex;
+  justify-content:flex-end;
+  flex-direction: column;
+
+}
+
+.card {
+  display:flex;
+  justify-content:flex-end;
+}
+
+.photo-player {
+ 
 }

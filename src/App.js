@@ -3,9 +3,11 @@ import './App.css';
 import Congratulations from './components/Congrats';
 import CovidHeader from './components/Header';
 import Links from './components/Links';
+import Players from './components/players';
 import RolexBar from './components/RolexBar';
 import Shop from './components/Shop';
 import Video from './components/video';
+import players from './data/players.json'
 
 function App() {
   return (
@@ -16,6 +18,7 @@ function App() {
      <Links />
      <Video />
      <Shop />
+     <Players list={players} />
      
     </div>
   );

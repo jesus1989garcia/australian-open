@@ -1,0 +1,84 @@
+[
+  {
+    "id": "8",
+    "title": "Game Night",
+    "year": "2018",
+    "genres": [
+      "Action",
+      "Comedy",
+      "Crime"
+    ],
+    "ratings": [
+      2,
+      10,
+      1,
+      10,
+      6,
+      2,
+      5,
+      2,
+      9,
+      7,
+      5,
+      3,
+      7,
+      7,
+      1,
+      4,
+      5,
+      9,
+      2,
+      8,
+      10,
+      8,
+      1,
+      10,
+      7,
+      10,
+      8,
+      6,
+      7,
+      6
+    ],
+    "poster": "MV5BMjQxMDE5NDg0NV5BMl5BanBnXkFtZTgwNTA5MDE2NDM@._V1_SY500_CR0,0,337,500_AL_.jpg",
+    "contentRating": "11",
+    "duration": "PT100M",
+    "releaseDate": "2018-02-28",
+    "averageRating": 0,
+    "originalTitle": "",
+    "storyline": "A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.",
+    "actors": [
+      "Rachel McAdams",
+      "Jesse Plemons",
+      "Jason Bateman"
+    ],
+    "imdbRating": "",
+    "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxMDE5NDg0NV5BMl5BanBnXkFtZTgwNTA5MDE2NDM@._V1_SY500_CR0,0,337,500_AL_.jpg"
+  },
+  {
+    "id": "1",
+    "photo": "https://res.cloudinary.com/sporting/image/upload/v1617912239/AOplayers/kisspng-roger-federer-foundation-australian-open-2017-matc-roger-federer-5ac7321e8aaf27.1411770115230039345681.png",
+    "name": "Federer"
+  }, 
+  {
+    "id": "2",
+    "photo": "https://res.cloudinary.com/sporting/image/upload/v1617912239/AOplayers/kisspng-novak-djokovic-the-championships-wimbledon-the-us-novak-djokovic-png-transparent-image-5a77cc7186eed0.0924976715178005615527.png",
+    "name": "Djokovic"
+  },
+  {
+    "id": "3",
+    "photo": "https://res.cloudinary.com/sporting/image/upload/v1617912239/AOplayers/kisspng-serena-williams-the-championships-wimbledon-women-wining-5b0c61db12e284.3966026815275381390774.png",
+    "name": "Serena Williams"
+  },
+  {
+    "id": "4",
+    "photo": "https://res.cloudinary.com/sporting/image/upload/v1617912239/AOplayers/kisspng-naomi-osaka-2018-hopman-cup-japan-tennis-player-5b0b43ea658a90.4847280515274649384159.png",
+    "name": "Naomi Osaka"
+  },
+  {
+    "id": "5",
+    "photo": "https://res.cloudinary.com/sporting/image/upload/v1617912239/AOplayers/kisspng-rafael-nadal-french-open-association-of-tennis-pro-rafael-nadal-5b32357904a356.082048721530017145019.png",
+    "name": "Nadal"
+  }
+
+]
