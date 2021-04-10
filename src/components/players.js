@@ -1,4 +1,7 @@
 import React from 'react'
+import { FontAwesomeIcon } from'@fortawesome/react-fontawesome'
+import { faArrowAltCircleRight } from '@fortawesome/free-solid-svg-icons'
+
 
 
 class Players extends React.Component {
@@ -21,7 +24,7 @@ class Players extends React.Component {
   
   render(){
     
-    const styleCard = {width: "100%", height: "800px"}
+    const styleCard = {width: "100%", height: "650px"}
     const photoStyle = {width: "auto", height: "100%"}
     return(
       <div className="players" style={{color:"white"}}>
@@ -30,11 +33,12 @@ class Players extends React.Component {
               <div style={styleCard} className="card">
                 <h1 >{jouer.name}</h1>
                 <img src={jouer.photo} style={photoStyle} className="photo-player"/>
+                <FontAwesomeIcon  size="5x" onClick={this.handlePlayer} className="btn-player" icon={faArrowAltCircleRight} />
               </div>
             ))}
             
           
-          <button onClick={this.handlePlayer}>Next</button>
+          
       </div>
     )
   }

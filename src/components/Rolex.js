@@ -25,7 +25,7 @@ function Rolex() {
       <img src={rolexLogo} height="70px"/>
       <Clock value={time} />
       <div>
-        <p>your time is: {yourTime}</p>
+        <p>YOUR TIME: {yourTime}</p>
       </div>
     </div>
   )

@@ -3,6 +3,7 @@ import './App.css';
 import Congratulations from './components/Congrats';
 import CovidHeader from './components/Header';
 import Links from './components/Links';
+import Partners from './components/Partners';
 import Players from './components/players';
 import RolexBar from './components/RolexBar';
 import Shop from './components/Shop';
@@ -19,7 +20,7 @@ function App() {
      <Video />
      <Shop />
      <Players list={players} />
-     
+     <Partners />
     </div>
   );
 }
